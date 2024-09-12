@@ -5,7 +5,7 @@ import EditIcon from './EditIcon.vue'
 </script>
 
 <template>
-  <section class="text-grey mb-6 last:mb-0">
+  <section class="text-grey mb-6 last:mb-0 pb-4">
     <div class="flex gap-4">
       <img class="w-[76px] h-[76px] shrink-0" src="" alt="" />
       <div>
@@ -17,8 +17,8 @@ import EditIcon from './EditIcon.vue'
           </div>
         </div>
         <p class="text-xs line-clamp-3">
-          Київський палац спорту (КПС) - найбільша крита споруда розташована у центральній частині
-          міста Київ, біля підніжжя
+          Ки́ївський пала́ц спо́рту (КПС) — найбільша крита спортивно-видовищна споруда України,
+          розташована у центральній частині міста Київ, біля підніжжя Черепанової гори.
         </p>
       </div>
     </div>
